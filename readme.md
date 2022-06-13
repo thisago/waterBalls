@@ -5,8 +5,9 @@
 ---
 
 ## Usage
+
 ```
-$ tic80 src/emptyHouse.js
+$ tic80 src/waterBalls.js
 ```
 
 ## Images
@@ -22,7 +23,7 @@ _Menu Multiplayer_
 ---
 
 _Menu Automatic_
-![](images/menuAutomatic.png) 
+![](images/menuAutomatic.png)
 
 ---
 
@@ -45,4 +46,5 @@ _Pause Menu_
 ![](images/pauseMenu.png)
 
 ## License
+
 GPL-3
