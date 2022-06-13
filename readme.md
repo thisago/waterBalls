@@ -2,6 +2,16 @@
 
 **Organize these balls!**
 
+## Features
+
+- Continue game
+- Toggle music
+- Toggle automatic players (even full auto)
+- Play with you friend in local multiplayer mode
+- View controls
+- Enable auto mode in mid game
+- Invert the `collector` player sides
+
 ---
 
 ## Usage
